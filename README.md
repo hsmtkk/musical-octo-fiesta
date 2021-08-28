@@ -1,2 +1,2 @@
 # musical-octo-fiesta
-Rust calil library search API with cache
+Rust zipcode API client with cache
